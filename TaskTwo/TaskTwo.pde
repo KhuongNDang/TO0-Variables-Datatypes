@@ -1,0 +1,10 @@
+String teacherName = "Tess Løvgreen";
+int daysInYear = 365;
+String city = "København";
+boolean female = true;
+int mathOne = 60*24;
+float birthday = 22.12;
+String intro = "Hej, jeg heddder "+teacherName;
+boolean male = false;
+float mathTwo = 2.2 + 33;
+char symbol = 'S';
